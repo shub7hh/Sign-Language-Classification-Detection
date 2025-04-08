@@ -8,4 +8,5 @@ A dynamic hand gesture capturing pipeline that detects a single hand in real tim
 Gesture Recognition and Classification Pipeline
 The main classification script detects and isolates the user's hand from webcam input, preprocesses the ROI using padding and resizing while maintaining spatial consistency, and passes the processed image into a pre-trained Keras model for gesture classification. The output label is then overlaid on the live video feed along with bounding boxes for visual feedback.
 
-Created by Shubham Pandey
+Created by Shubham Pandey,Bennett University.
+
